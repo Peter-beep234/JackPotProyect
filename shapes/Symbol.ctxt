@@ -4,4 +4,6 @@ comment1.params=position\ color
 comment1.target=Symbol(int,\ java.lang.String)
 comment2.params=color
 comment2.target=void\ changeColor(java.lang.String)
-numComments=3
+comment3.params=
+comment3.target=void\ erase()
+numComments=4

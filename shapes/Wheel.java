@@ -11,19 +11,30 @@ public class Wheel{
     
     public Wheel(int position){
         Usymbol = new Symbol(position, "black");
+        
         Symbols = new ArrayList<String>();
         
-        Symbols.add("black");
-        
+        for (int i = 0; i < 8; i++){
+            Symbols.add(" ");
+        }
     }
     
-    public void addSymbol(String Symbol){
-        this.Symbols.add(Symbol);
+    public void addSymbol(int pos, String Symbol){
+        this.Symbols.set(pos, Symbol);
+    }
+    
+    public void delSymbol(String color){
+        this.Symbols.remove(color);
     }
     
     public void Spin(){
         int index = random.nextInt(Symbols.size());
         String ncolor = Symbols.get(index);
         this.Usymbol.changeColor(ncolor);
+    }
+    
+    public void delWheel(){
+        Symbols.clear();
+        Usymbol.erase();
     }
 }

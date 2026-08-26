@@ -18,4 +18,12 @@ public class Symbol{
     public void changeColor(String color){
         symbol.changeColor(color);
     }
+    
+    public void makeInvisible(){
+        symbol.makeInvisible();
+    }
+    
+        public void erase() {
+        symbol.erase();
+    }
 }

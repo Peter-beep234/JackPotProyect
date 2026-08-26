@@ -6,4 +6,6 @@ comment2.params=Symbol
 comment2.target=void\ addSymbol(java.lang.String)
 comment3.params=
 comment3.target=void\ Spin()
-numComments=4
+comment4.params=
+comment4.target=void\ delWheel()
+numComments=5

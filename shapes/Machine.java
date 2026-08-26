@@ -43,15 +43,6 @@ public class Machine {
             separacion.moveHorizontal(80*i);
         }
     }
-    
-        public void erase() {
-        superior.erase();
-        inferior.erase();
-
-        for (int i = 0; i < separaciones.size(); i++) {
-            separaciones.get(i).erase();
-        }
-    }
 
     
     public void Win(){
