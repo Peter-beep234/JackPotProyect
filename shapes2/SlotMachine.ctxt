@@ -1,0 +1,36 @@
+#BlueJ class context
+#Tue Sep 22 22:16:36 COT 2026
+comment0.target=SlotMachine
+comment1.target=SlotMachine()
+comment10.params=wheel
+comment10.target=void spin(int)
+comment11.target=void spin()
+comment12.params=wheel steps
+comment12.target=void spin(int, int)
+comment13.params=setSymbols
+comment13.target=void spin(java.lang.String[])
+comment14.target=java.lang.String[] symbols()
+comment15.target=int distinctSymbols()
+comment16.target=java.lang.String[] configuration()
+comment17.target=boolean isJackpot()
+comment18.target=void makeVisible()
+comment19.target=void makeInvisible()
+comment2.params=pos
+comment2.target=void addWheel(int)
+comment20.target=void exit()
+comment21.target=boolean ok()
+comment3.params=pos
+comment3.target=void delWheel(int)
+comment4.params=wheel1 wheel2
+comment4.target=void swap(int, int)
+comment5.params=wheel
+comment5.target=void look(int)
+comment6.params=wheel
+comment6.target=void unlook(int)
+comment7.params=pos color
+comment7.target=void addSymbol(int, java.lang.String)
+comment8.params=symbol
+comment8.target=void delSymbol(java.lang.String)
+comment9.params=wheel symbol
+comment9.target=void placeSymbol(int, java.lang.String)
+numComments=22

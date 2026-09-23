@@ -1,0 +1,18 @@
+#BlueJ class context
+#Tue Sep 22 22:16:36 COT 2026
+comment0.target=Wheel
+comment1.params=initialSymbols
+comment1.target=Wheel(java.util.ArrayList)
+comment2.target=java.lang.String getSymbol()
+comment3.params=pos symbol
+comment3.target=void addSymbol(int, java.lang.String)
+comment4.params=color
+comment4.target=void delSymbol(java.lang.String)
+comment5.params=steps
+comment5.target=void Spin(int)
+comment6.params=color
+comment6.target=void place(java.lang.String)
+comment7.target=void lock()
+comment8.target=void unlock()
+comment9.target=boolean isLocked()
+numComments=10
