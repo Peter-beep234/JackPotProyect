@@ -1,0 +1,9 @@
+#BlueJ class context
+#Tue Oct 06 15:56:23 COT 2026
+comment0.target=SlotMachineContest
+comment0.text=\r\n Write a description of class SlotMachineContest here.\r\n \r\n @author (your name) \r\n @version (a version number or a date)\r\n
+comment1.params=n
+comment1.target=int[][] solve(int)
+comment2.params=n
+comment2.target=void simulate(int)
+numComments=3

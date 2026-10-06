@@ -1,0 +1,11 @@
+#BlueJ class context
+#Tue Oct 06 15:56:23 COT 2026
+comment0.target=SlotMachineContestCTest
+comment0.text=\r\n The test class SlotMachineContestCTest.\r\n\r\n @author  (RodriguezH - SarmientoM)\r\n
+comment1.target=void setUp()
+comment2.target=void shouldSimulateTheMachine()
+comment3.target=void shouldNotSimulateAnEmptyMachine()
+comment4.target=void shouldSolveAMachine()
+comment5.target=void shouldNotSolveInvalidSizes()
+comment6.target=void erase()
+numComments=7
