@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SlotMachineCC4Test
+comment0.text=\r\n\ @author\ \ (RodriguezH\ -\ SarmientoM)\r\n\ @version\ (ciclo\ 4)\r\n
+comment1.params=
+comment1.target=void\ ShouldMakeJackpotWithLefty()
+comment2.params=
+comment2.target=void\ ShouldNotLockRebel()
+numComments=3

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=SlotMachineC4AcceptanceTest
+comment0.text=\r\n\ Pruebas\ de\ aceptacion\ del\ ciclo\ 4\ para\ la\ presentacion\ (modo\ visible).\r\n\ Muestran\ la\ maquina\ en\ pantalla,\ hacen\ los\ movimientos\ con\ una\ pausa\r\n\ para\ que\ se\ puedan\ ver,\ y\ revisan\ solas\ que\ el\ resultado\ sea\ el\ correcto.\r\n\r\n\ @author\ \ (RodriguezH\ -\ SarmientoM)\r\n\ @version\ (ciclo\ 4)\r\n
+comment1.params=
+comment1.target=void\ pausa()
+comment2.params=
+comment2.target=void\ shouldShowLeftyAndRestLess()
+comment2.text=\r\n\ Tipos\ de\ rueda.\ Orden\:\ normal,\ lefty,\ restless,\ normal.\r\n\ La\ lefty\ (rueda\ 2)\ copia\ el\ color\ de\ la\ rueda\ 1\ y\ la\ restless\ (rueda\ 3)\r\n\ se\ cambia\ de\ lugar\ con\ la\ rueda\ 4\ cuando\ gira.\r\n
+comment3.params=
+comment3.target=void\ shouldShowEphemeralAndShy()
+comment3.text=\r\n\ Tipos\ de\ simbolo\:\ el\ efimero\ (amarillo)\ se\ encoge\ cada\ vez\ que\ la\ rueda\ 1\r\n\ cae\ en\ el;\ el\ timido\ (azul)\ se\ esconde\ cuando\ la\ rueda\ 2\ lo\ selecciona.\r\n
+numComments=4
